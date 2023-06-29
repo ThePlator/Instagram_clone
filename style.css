@@ -388,7 +388,12 @@ body {
     align-items: start;
   }
 
+  .nav_body hr {
+    width: 60dvh;
+  }
+
   .nav_logo {
+    width: 60dvh;
     display: flex;
     justify-content: space-evenly;
   }
