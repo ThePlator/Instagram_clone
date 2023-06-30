@@ -393,14 +393,14 @@ body {
   .top_search {
     border-radius: 10px;
     background-color: rgba(128, 128, 128, 0.345);
-    padding: 10px 70px;
+    padding: 1dvh 10dvh;
     border: none;
   }
 
   .top_heart {
     width: 30px;
     height: 30px;
-    margin-left: 50px;
+    margin-left: 9dvh;
   }
 
   .logo {
@@ -417,7 +417,8 @@ body {
     width: 60dvh;
     position: fixed;
     background-color: rgb(255, 255, 255);
-    top: 96dvh;
+    /* top: 96dvh; */
+    top: 680px;
   }
 
   .nav_logo div p {
