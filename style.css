@@ -21,7 +21,7 @@ body {
 
 .left_body {
   position: sticky;
-  background-color: aqua;
+  /* background-color: aqua; */
   height: 100dvh;
   top: 0;
 }
